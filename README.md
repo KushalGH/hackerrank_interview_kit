@@ -15,10 +15,8 @@
 </p>
 
 
->> - All 
 
-
-#WARM-UP CHALLENGES
+# WARM-UP CHALLENGES
 
 ## Sock Merchant Problem.
 
