@@ -21,7 +21,7 @@
 ## Sock Merchant Problem.
 
 ```
-**Hackerrank Problem:** https://www.hackerrank.com/challenges/sock-merchant
-**Hackerrank Title:** Sock Merchant
-**Solution:** https://github.com/KushalGH/hackerrank_interview_kit/sock_merchant_problem/solution.js 
+Hackerrank Problem: https://www.hackerrank.com/challenges/sock-merchant
+Hackerrank Title: Sock Merchant
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/sock_merchant_problem/solution.js 
 ```
