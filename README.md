@@ -13,7 +13,9 @@
 <p align="center">
 	For other solutions of HackerRank problems, please refer: https://github.com/KushalGH/HackerRank 
 </p>
-
+<p align="center">
+	Mostly, I will be using C# and JavaScript as of now. Later, can think of using Phython and GO. 
+</p>
 
 
 # WARM-UP CHALLENGES
