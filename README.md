@@ -25,3 +25,11 @@ Hackerrank Problem: https://www.hackerrank.com/challenges/sock-merchant
 Hackerrank Title: Sock Merchant
 Solution: https://github.com/KushalGH/hackerrank_interview_kit/sock_merchant_problem/solution.js 
 ```
+
+## Counting Valleys Problem.
+
+```
+Hackerrank Problem: https://www.hackerrank.com/challenges/counting-valleys/
+Hackerrank Title: Counting Valleys
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/counting_valley_problem/CountingValeey.cs 
+```
