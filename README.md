@@ -43,3 +43,11 @@ Hackerrank Problem: https://www.hackerrank.com/challenges/jumping-on-the-clouds/
 Hackerrank Title: Jumping on the Clouds
 Solution: https://github.com/KushalGH/hackerrank_interview_kit/Jumping_on_the_clouds/Program.cs 
 ```
+
+## Repeated String.
+
+```
+Hackerrank Problem: https://www.hackerrank.com/challenges/repeated-string/
+Hackerrank Title: Repeated String
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_repeating_string_problem/Program.cs 
+```
