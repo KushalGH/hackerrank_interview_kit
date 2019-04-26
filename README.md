@@ -51,3 +51,22 @@ Hackerrank Problem: https://www.hackerrank.com/challenges/repeated-string/
 Hackerrank Title: Repeated String
 Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_repeating_string_problem/Program.cs 
 ```
+
+# Arrays CHALLENGES
+
+## 005: 2D Array - DS
+
+```
+Hackerrank Problem: https://www.hackerrank.com/challenges/2d-array/
+Hackerrank Title: 2D Array - DS
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_Array_2DArray/Program.cs 
+```
+
+## 006: Arrays: Left Rotation
+
+```
+Hackerrank Problem: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+Hackerrank Arrays: Left Rotation
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/005_Array_rotation/Program.cs 
+```
+
