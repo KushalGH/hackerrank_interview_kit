@@ -59,7 +59,7 @@ Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_repeating_str
 ```
 Hackerrank Problem: https://www.hackerrank.com/challenges/2d-array/
 Hackerrank Title: 2D Array - DS
-Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_Array_2DArray/Program.cs 
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/005_Array_2DArray/Program.cs 
 ```
 
 ## 006: Arrays: Left Rotation
@@ -67,6 +67,6 @@ Solution: https://github.com/KushalGH/hackerrank_interview_kit/004_Array_2DArray
 ```
 Hackerrank Problem: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 Hackerrank Arrays: Left Rotation
-Solution: https://github.com/KushalGH/hackerrank_interview_kit/005_Array_rotation/Program.cs 
+Solution: https://github.com/KushalGH/hackerrank_interview_kit/006_Array_rotation/Program.cs 
 ```
 
